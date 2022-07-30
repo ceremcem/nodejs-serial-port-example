@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "@serialport/parser-inter-byte-timeout": "^10.3.0",
-    "fancy-log": "^2.0.0",
+    "fancy-format-log": "^3.0.0",
     "serialport": "^10.4.0"
   }
 }
